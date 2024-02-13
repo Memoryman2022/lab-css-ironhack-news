@@ -27,9 +27,9 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
   padding: 5px 8px;
   font-size: 14px;
 }
-@media only screen and (max-width: 760px) {
+@media only screen and (max-width: 760px)  {
   body {
-    background-color: rgb(25, 95, 119);
+    background-color: rgb(12, 122, 146);
     
   }
 }
